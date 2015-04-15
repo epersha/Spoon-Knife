@@ -9,3 +9,4 @@ Why won’t the changes show up?
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
 Learning how to fork and submit pull requests!
+Making a partial commit!
